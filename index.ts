@@ -1,1 +1,2 @@
-console.log("hello world")
+let age: number;
+age = 16;
